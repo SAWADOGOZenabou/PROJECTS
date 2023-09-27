@@ -1,0 +1,73 @@
+header{
+	display: flex;
+	justify-content: space-between;
+	background-color: rgb(234, 200, 221);
+    height: 500%;
+}
+form{
+	margin-right: 10%;
+}
+  .logo{
+	height: 10%;
+	width: 10%;
+}
+input{
+	width: 500%;
+	height: 10%;
+	
+	
+}
+label{
+	background-color: blue;
+	color: white;
+	display: inline-block;
+	border-radius: 2%;
+	border: 3% blue solid;
+	
+}
+.input{
+	display: flex;
+	justify-content: space-between;
+	width: 115%;
+}
+.form{
+    height: 350%;
+}
+.div1{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+.footer{
+	background-color: rgb(234, 200, 221);
+	height: 30%;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.image1{
+	height: 10%;
+	width: 10%;
+}
+
+.contact{
+	display: flex;
+	justify-content: space-between;
+	margin-left: 35%;
+}
+.footer2{
+	margin-left: 45%;
+	margin-top: 2%;
+	margin-right: 20%;
+	
+}
+#contact{
+	text-decoration: underline;
+	text-align: center;
+	margin-left: 15%;
+	color: blue;
+}
+.mail{
+	margin-left: 35%;
+}

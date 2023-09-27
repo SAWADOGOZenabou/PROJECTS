@@ -1,0 +1,122 @@
+
+
+  header{
+	display: flex;
+	justify-content: space-between;
+	background-color: rgb(234, 200, 221);
+}
+form{
+	margin-right: 10%;
+}
+  .logo{
+	height: 10%;
+	width: 10%;
+}
+input{
+	width: 500%;
+	height: 10%;
+	
+	
+	
+}
+label{
+	background-color: blue;
+	color: white;
+	display: inline-block;
+	border-radius: 3%;
+	border: 3% blue solid;
+	
+}
+.input{
+	display: flex;
+	justify-content: space-between;
+	width: 115%;
+	
+	
+}
+
+.div1{
+	display: flex;
+	justify-content: space-between;
+}
+
+.div2{
+	background-image: url(images/R.jfif);
+	height : 900px;
+	width: 100%;
+	text-align:center;
+	
+}
+
+#b2{
+	padding-top: 20%;
+	font-size: 100%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+p{
+ color:blue;
+}
+.sacs{
+	height: 40%;
+	width: 45%;
+	margin-left: 20%;
+	margin-top: 23%;
+}  
+.robe{
+	height: 50%;
+	width: 110%;
+	margin-left:10%;
+	margin-top: 35%;
+}
+.accessoire{
+	height: 40%;
+	width: 40%;
+	margin-left: 20%;
+	margin-top: 30%;
+}
+.chaussure{
+	height: 40%;
+	width: 40%;
+	margin-left: 30%;
+	margin-top: 30%;
+}
+
+.div3{
+	display: flex;
+	justify-content: space-between;
+}
+  
+.footer{
+	background-color: rgb(234, 200, 221);
+	height: 30%;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.image1{
+	height: 10%;
+	width: 10%;
+}
+
+.contact{
+	display: flex;
+	justify-content: space-between;
+	margin-left: 35%;
+}
+.footer2{
+	margin-left: 45%;
+	margin-top: 2%;
+	margin-right: 20%;
+	
+}
+#contact{
+	text-decoration: underline;
+	text-align: center;
+	margin-left: 15%;
+	color: blue;
+}
+.mail{
+	margin-left: 35%;
+}
